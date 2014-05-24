@@ -1,3 +1,9 @@
+#This library is old
+
+I don't have time to update this library like I wanted to but Ed Wellbrook created a much better version [here](https://github.com/edwellbrook/node-tvdb).
+
+*This library still works, so you can still use it if you like.*
+
 [![Build Status](https://travis-ci.org/joaocampinhos/thetvdb-api.png)](https://travis-ci.org/joaocampinhos/thetvdb-api)
 
 # Thetvdb-api
